@@ -1,6 +1,7 @@
 # William-Atividade-recuperacao
 Nome: William Junio De Jesus Silva
 Sala: HT-PJD-02-N-26-10495
+
 # PARTE 1: AVALIAÇÃO TEÓRICA (COMPETÊNCIAS TÉCNICAS)
 1. Diferencie variável de constante em um sistema de controle de
 temperatura.
