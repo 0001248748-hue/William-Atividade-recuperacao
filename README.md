@@ -3,7 +3,8 @@ Nome: William Junio De Jesus Silva
 
 Sala: HT-PJD-02-N-26-10495
 
-# PARTE 1: AVALIAÇÃO TEÓRICA (COMPETÊNCIAS TÉCNICAS)
+PARTE 1: AVALIAÇÃO TEÓRICA (COMPETÊNCIAS TÉCNICAS)
+Responda às questões abaixo com foco em clareza técnica.
 1. Diferencie variável de constante em um sistema de controle de
 temperatura.
 2. Qual a função do comando leia() e por que o tipo de dado (inteiro, real,
@@ -22,8 +23,7 @@ um sensor.
 10. Qual a importância de documentar o código com comentários no
 ambiente profissional?
 
-
-# PARTE 2: MARATONA DE PROGRAMAÇÃO (40 ALGORITMOS)
+PARTE 2: MARATONA DE PROGRAMAÇÃO (40 ALGORITMOS)
 Nível 1: Operador Aprendiz (Entrada, Saída e Aritmética)
 Foco: Manipulação de dados básicos e cálculos diretos.
 1. Boas-vindas ao Turno: O sistema de RH precisa saudar o funcionário. Peça
@@ -57,7 +57,7 @@ para o trajeto.
 prateleira, peça o ID de uma peça e exiba o ID da peça que deve vir
 imediatamente antes e a que vem depois.
 
-# Nível 2: Técnico de Manutenção (Estruturas Condicionais)
+Nível 2: Técnico de Manutenção (Estruturas Condicionais)
 Foco: Tomada de decisão e segurança do trabalho.
 11. Segurança de Caldeira: Um sensor monitora uma caldeira. Se a
 temperatura lida for maior que 100°C, exiba: "ALERTA: RISCO DE
@@ -87,29 +87,23 @@ mais, ele recebe o selo "Operador Ouro". Caso contrário, precisa de
 Peça um ano e diga se ele é bissexto (múltiplo de 4 e não de 100, ou
 múltiplo de 400).
 
-# Nível 3: Engenheiro de Processos (Estruturas de Repetição)
+Nível 3: Engenheiro de Processos (Estruturas de Repetição)
 Foco: Automação de tarefas repetitivas e processamento de dados.
 21.Checklist de Sensores: Use um laço para exibir os números de série dos 50
 sensores espalhados pela fábrica (de 1 a 50).
-
 22. IDs de Emergência: A central de incêndio só testa sensores com IDs pares.
 Exiba todos os números pares de 2 até 100.
-
 23.Contagem Regressiva: Para disparar uma prensa, o sistema deve exibir uma
 contagem regressiva de 10 até 0 e depois a mensagem "IGNIÇÃO!".
-
 24. Fechamento Mensal: Um gerente quer saber o total produzido na semana.
 Peça a produção diária de 7 dias (usando um laço) e, ao final, mostre a
 soma.
-
 25.Cálculo de Lotes (Fatorial): O sistema de logística usa fatoriais para
 organizar combinações de carga. Calcule o fatorial de um número inserido
 pelo usuário.
-
 26. Tabuada de Produção: O supervisor quer uma tabela que mostre quanto a
 máquina produz de 1 a 10 horas. Peça a produção por hora e gere essa
 "tabuada".
-
 27.Média Térmica: Leia a temperatura de 10 pontos diferentes da fábrica e, ao
 final, exiba a média térmica do ambiente.
 28. Tentativas de Senha: O sistema de segurança deve pedir a senha da porta
@@ -120,7 +114,7 @@ Use um laço para mostrar todas as marcas de 5 em 5, até 200mm.
 colônia de bactérias em um teste químico segue Fibonacci. Exiba os 10
 primeiros termos dessa sequência.
 
-# Nível 4: Especialista 4.0 (Conceitos Mistos e Lógica Avançada)
+Nível 4: Especialista 4.0 (Conceitos Mistos e Lógica Avançada)
 Foco: Integração de variáveis, condicionais e laços em problemas complexos.
 31. Relatório Flexível: Pergunte ao supervisor quantas máquinas ele quer
 analisar. Depois, peça a produção de cada uma dessas N máquinas e
